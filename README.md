@@ -22,9 +22,9 @@
 ```
 
 ### 포트폴리오 및 이메일
-<a href="https://webdesklinker.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Safari&logoColor=white"/>
+<a href="https://webdesklinker.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white"/>
 </a>
-<a href="mailto:alsvhtks@naver.com">
+<a href="mailto:alsvhtks@naver.com" target="_blank">
     <img src="https://img.shields.io/badge/이메일-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
