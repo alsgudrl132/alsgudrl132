@@ -21,7 +21,7 @@
 💊 2023   Pilldex (약물 검색 웹사이트) | Java, Spring
 ```
 
-### 포트폴리오 및 연락처
+### 포트폴리오 및 이메일
 <a href="https://webdesklinker.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-4A154B?style=for-the-badge&logo=Trello&logoColor=white"/>
 </a>
