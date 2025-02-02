@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,100:da1f26&height=200&section=header&text=MinHyeongKi&fontSize=60&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4B89DC,100:8C4BDC&height=200&section=header&text=MinHyeonggi&fontSize=60&fontColor=ffffff&animation=fadeIn)
 
 ### 안녕하세요 👋 
 지속적인 성장과 도전을 좋아하는 웹 개발자입니다
