@@ -20,10 +20,6 @@
 📈 2023   Blueocean (주식정보 웹사이트) | Java, Spring
 💊 2023   Pilldex (약물 검색 웹사이트) | Java, Spring
 ```
-### ⚡ 진행중인 개발
-```
-💡 2025   Mc-manager | React, Nextjs, Spring
-```
 
 ### 포트폴리오 및 이메일
 <a href="https://webdesklinker.netlify.app/" target="_blank" rel="noopener noreferrer">
