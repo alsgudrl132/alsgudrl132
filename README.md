@@ -13,12 +13,17 @@
 </div>
 
 ### ⚡ 개발 경험
+### 진행한 프로젝트
 ```
 💻 2024   EBS 온라인클래스 플랫폼 유지보수 | Vue.js, Nuxt.js
 🔧 2024   Boardify (협업 프로젝트 관리 도구) | Vue.js, Supabase
 🎮 2023   Escape From Tarkov Helper | React
 📈 2023   Blueocean (주식정보 웹사이트) | Java, Spring
 💊 2023   Pilldex (약물 검색 웹사이트) | Java, Spring
+```
+### 진행중인 프로젝트
+```
+⛏️ 2025   Mc Manager (마인크래프트 서버매니저) | React, ReactNative, Next.js
 ```
 
 ### 포트폴리오 및 이메일
