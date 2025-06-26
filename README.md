@@ -1,8 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4B89DC,100:8C4BDC&height=200&section=header&text=MinHyeonggi&fontSize=60&fontColor=ffffff&animation=fadeIn)
-
-### 안녕하세요 👋 
-지속적인 성장과 도전을 좋아하는 웹 개발자입니다
-
 ### 기술 스택
 **주력 기술**
 <div>
