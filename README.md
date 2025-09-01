@@ -45,3 +45,34 @@
 <a href="mailto:alsvhtks@naver.com">
     <img src="https://img.shields.io/badge/이메일-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+### 플로우차트
+flowchart LR
+    A[시스템 시작] --> B[센서 모니터링]
+    
+    B --> C[DHT11<br/>온도감지]
+    B --> D[초음파<br/>사람감지]
+    B --> E[키패드<br/>패스워드]
+    B --> F[도어버튼]
+    
+    C --> G{고온 +<br/>사람감지}
+    D --> G
+    
+    E --> H{인증<br/>성공?}
+    H -->|성공| I[문열림<br/>10초]
+    H -->|실패| J[다시입력]
+    
+    F --> K[수동개방<br/>10초]
+    
+    G -->|Yes| L[환기팬<br/>ON]
+    G -->|No| M[환기팬<br/>OFF]
+    
+    I --> N[서보모터<br/>제어]
+    K --> N
+    
+    N --> O[도어<br/>개폐]
+    L --> P[상태<br/>표시]
+    M --> P
+    O --> P
+    J --> B
+    P --> B
