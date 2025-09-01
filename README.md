@@ -47,6 +47,7 @@
 </a>
 
 ### 플로우차트
+```mermaid
 flowchart LR
     A[시스템 시작] --> B[센서 모니터링]
     
