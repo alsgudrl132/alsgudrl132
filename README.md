@@ -24,4 +24,5 @@
 ### 포트폴리오 및 이메일
 <a href="mailto:alsgudrl132@gmail.com">
     <img src="https://img.shields.io/badge/이메일-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    [포트폴리오 보기](https://raw.githubusercontent.com/alsgudrl132/fpga-embedded-portfolio/main/2025_%EB%AF%BC%ED%98%95%EA%B8%B0_FPGA_%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 </a>
