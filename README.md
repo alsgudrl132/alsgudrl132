@@ -1,12 +1,9 @@
 ### 진행한 프로젝트
 
-### 웹
+### FPGA
 ```
-💻 2024   EBS 온라인클래스 플랫폼 유지보수 | Vue.js, Nuxt.js
-🔧 2024   Boardify (협업 프로젝트 관리 도구) | Vue.js, Supabase
-🎮 2023   Escape From Tarkov Helper | React
-📈 2023   Blueocean (주식정보 웹사이트) | Java, Spring
-💊 2023   Pilldex (약물 검색 웹사이트) | Java, Spring
+🏠️ 2025   RTL 스마트홈 | Basys3
+🚜 2025   SOC 원격 굴삭기 | Basys3
 ```
 
 ### 임베디드
@@ -16,11 +13,17 @@
 🚗 2025   ARM RC카 / 자율주행 | Stm32
 ```
 
-### FPGA
+### 웹
 ```
-🏠️ 2025   RTL 스마트홈 | Basys3
-🚜 2025   SOC 원격 굴삭기 | Basys3
+💻 2024   EBS 온라인클래스 플랫폼 유지보수 | Vue.js, Nuxt.js
+🔧 2024   Boardify (협업 프로젝트 관리 도구) | Vue.js, Supabase
+🎮 2023   Escape From Tarkov Helper | React
+📈 2023   Blueocean (주식정보 웹사이트) | Java, Spring
+💊 2023   Pilldex (약물 검색 웹사이트) | Java, Spring
 ```
+
+
+
 
 ### 포트폴리오 및 이메일
 
